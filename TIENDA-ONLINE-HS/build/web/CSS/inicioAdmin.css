@@ -1,0 +1,104 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 12/04/2024, 2:21:09 p. m.
+    Author     : alexa
+*/
+
+.buscador {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.2rem;
+    border-style: groove;
+    margin-top: -6rem;
+}
+
+.menu {
+    width: 250px;
+    height: 100%;
+    background-color: #DA7A86;
+    color: #fff;
+    padding: 20px;
+    box-sizing: border-box;
+    position: fixed;
+    left: 0;
+    top: 0;
+    overflow-y: auto;
+    margin-top: 4.8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.opciones {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    margin-top: 5rem;
+}
+
+.opciones li {
+    margin-bottom: 10px;
+}
+
+.opciones li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    transition: background-color 0.3s, border 0.3s;
+    border-radius: 5px;
+    border: 2px solid transparent;
+}
+
+.opciones li a:hover {
+    background-color: #a17193 !important;
+    border-color: #fff;
+    box-sizing: border-box;
+}
+
+.perfil {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.perfil img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    transition: transform 0.3s;
+}
+
+.perfil img:hover {
+    transform: scale(1.1);
+}
+
+.perfil:after {
+    content: '';
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    border-bottom: 2px solid #fff;
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    width: calc(100% - 250px);
+    margin-left: 250px;
+    padding: 20px;
+}
+
+
+nav {
+    position: fixed; 
+    width: 100%; 
+    background-color: #fff; 
+    
+    z-index: 1000; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+

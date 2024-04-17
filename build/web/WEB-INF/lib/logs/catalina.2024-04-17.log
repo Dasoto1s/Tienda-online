@@ -1,0 +1,94 @@
+17-Apr-2024 11:25:34.965 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/9.0.87
+17-Apr-2024 11:25:34.972 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 11 2024 10:12:34 UTC
+17-Apr-2024 11:25:34.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     9.0.87.0
+17-Apr-2024 11:25:34.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 11
+17-Apr-2024 11:25:34.973 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+17-Apr-2024 11:25:34.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+17-Apr-2024 11:25:34.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-18.0.2
+17-Apr-2024 11:25:34.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       18.0.2+9-61
+17-Apr-2024 11:25:34.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+17-Apr-2024 11:25:34.974 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\apache-tomcat-9.0.87
+17-Apr-2024 11:25:34.975 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\apache-tomcat-9.0.87
+17-Apr-2024 11:25:34.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+17-Apr-2024 11:25:34.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+17-Apr-2024 11:25:34.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+17-Apr-2024 11:25:34.995 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+17-Apr-2024 11:25:34.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+17-Apr-2024 11:25:34.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\apache-tomcat-9.0.87\conf\logging.properties
+17-Apr-2024 11:25:34.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+17-Apr-2024 11:25:34.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dhttp.nonProxyHosts=localhost|127.0.0.1|LAPTOP-DV0HSCJM
+17-Apr-2024 11:25:34.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+17-Apr-2024 11:25:34.996 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+17-Apr-2024 11:25:34.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dignore.endorsed.dirs=
+17-Apr-2024 11:25:34.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\apache-tomcat-9.0.87
+17-Apr-2024 11:25:34.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\apache-tomcat-9.0.87
+17-Apr-2024 11:25:34.997 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\apache-tomcat-9.0.87\temp
+17-Apr-2024 11:25:35.097 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [1.3.0] con la versión APR [1.7.4].
+17-Apr-2024 11:25:35.098 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Capacidades APR: IPv6 [true], enviar fichero [true], aceptar filtros [false], aleatorio [true], UDS [true].
+17-Apr-2024 11:25:35.098 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+17-Apr-2024 11:25:35.114 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+17-Apr-2024 11:25:35.716 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+17-Apr-2024 11:25:35.776 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1225] milliseconds
+17-Apr-2024 11:25:35.975 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+17-Apr-2024 11:25:35.975 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+17-Apr-2024 11:25:35.995 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\TIENDA-ONLINE-HS.xml]
+17-Apr-2024 11:25:36.020 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/TIENDA-ONLINE-HS] in deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\TIENDA-ONLINE-HS.xml] has been ignored
+17-Apr-2024 11:25:38.368 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+17-Apr-2024 11:25:38.511 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\TIENDA-ONLINE-HS.xml] has finished in [2.509] ms
+17-Apr-2024 11:25:38.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\web-HS#index.jsp.xml]
+17-Apr-2024 11:25:38.514 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/web-HS/index.jsp] in deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\web-HS#index.jsp.xml] has been ignored
+17-Apr-2024 11:25:40.039 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+17-Apr-2024 11:25:40.045 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\web-HS#index.jsp.xml] has finished in [1.534] ms
+17-Apr-2024 11:25:40.046 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\web-HS.xml]
+17-Apr-2024 11:25:40.047 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/web-HS] in deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\web-HS.xml] has been ignored
+17-Apr-2024 11:25:41.259 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars Al menos un JAR, que se ha explorado buscando TLDs, aún no contenía TLDs. Activar historial de depuración para este historiador para una completa lista de los JARs que fueron explorados y de los que nos se halló TLDs. Saltarse JARs no necesarios durante la exploración puede dar lugar a una mejora de tiempo significativa en el arranque y compilación de JSP .
+17-Apr-2024 11:25:41.266 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\web-HS.xml] has finished in [1.221] ms
+17-Apr-2024 11:25:41.266 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\WebApplicationHPUETA#HTML.xml]
+17-Apr-2024 11:25:41.268 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplicationHPUETA/HTML] in deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\WebApplicationHPUETA#HTML.xml] has been ignored
+17-Apr-2024 11:25:41.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\WebApplicationHPUETA#HTML.xml] has finished in [72] ms
+17-Apr-2024 11:25:41.339 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Desplieque del descriptor de configuración [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\WebApplicationHPUETA#Web Pages#HTML.xml]
+17-Apr-2024 11:25:41.341 WARNING [main] org.apache.catalina.core.StandardContext.setPath Una ruta de contexto debe de ser o una cadena vacía o comenzar con "/". La ruta [WebApplicationHPUETA/Web Pages/HTML] no cumple con estos criterios y ha sido cambiada por [/WebApplicationHPUETA/Web Pages/HTML]
+17-Apr-2024 11:25:41.342 WARNING [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/WebApplicationHPUETA/Web Pages/HTML] in deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\WebApplicationHPUETA#Web Pages#HTML.xml] has been ignored
+17-Apr-2024 11:25:41.417 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [C:\apache-tomcat-9.0.87\conf\Catalina\localhost\WebApplicationHPUETA#Web Pages#HTML.xml] has finished in [77] ms
+17-Apr-2024 11:25:41.418 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache-tomcat-9.0.87\webapps\docs] de la aplicación web
+17-Apr-2024 11:25:41.496 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.87\webapps\docs] has finished in [77] ms
+17-Apr-2024 11:25:41.496 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache-tomcat-9.0.87\webapps\examples] de la aplicación web
+17-Apr-2024 11:25:42.734 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.87\webapps\examples] has finished in [1.237] ms
+17-Apr-2024 11:25:42.735 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache-tomcat-9.0.87\webapps\host-manager] de la aplicación web
+17-Apr-2024 11:25:42.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.87\webapps\host-manager] has finished in [98] ms
+17-Apr-2024 11:25:42.833 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\apache-tomcat-9.0.87\webapps\manager] de la aplicación web
+17-Apr-2024 11:25:42.915 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\apache-tomcat-9.0.87\webapps\manager] has finished in [82] ms
+17-Apr-2024 11:25:42.928 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+17-Apr-2024 11:25:43.028 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [7248] milliseconds
+17-Apr-2024 11:26:20.914 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+17-Apr-2024 11:26:20.915 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+17-Apr-2024 11:26:20.930 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+17-Apr-2024 11:26:20.960 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [web-HS] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@18.0.2/java.io.WinNTFileSystem.canonicalize0(Native Method)
+ java.base@18.0.2/java.io.WinNTFileSystem.canonicalize(WinNTFileSystem.java:462)
+ java.base@18.0.2/java.io.File.getCanonicalPath(File.java:626)
+ org.apache.catalina.webresources.AbstractFileResourceSet.file(AbstractFileResourceSet.java:94)
+ org.apache.catalina.webresources.DirResourceSet.getResource(DirResourceSet.java:94)
+ org.apache.catalina.webresources.StandardRoot.getResourceInternal(StandardRoot.java:272)
+ org.apache.catalina.webresources.CachedResource.validateResource(CachedResource.java:105)
+ org.apache.catalina.webresources.Cache.getResource(Cache.java:96)
+ org.apache.catalina.webresources.StandardRoot.getResource(StandardRoot.java:211)
+ org.apache.catalina.webresources.StandardRoot.getClassLoaderResource(StandardRoot.java:220)
+ org.apache.catalina.loader.WebappClassLoaderBase.findResource(WebappClassLoaderBase.java:885)
+ org.apache.catalina.loader.WebappClassLoaderBase.getResource(WebappClassLoaderBase.java:1002)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.checkThreadContextClassLoader(AbandonedConnectionCleanupThread.java:125)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:92)
+ java.base@18.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@18.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@18.0.2/java.lang.Thread.run(Thread.java:833)
+17-Apr-2024 11:26:21.013 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesJdbc La aplicación web [TIENDA-ONLINE-HS] registró el conductor JDBC [com.mysql.cj.jdbc.Driver] pero falló al anular el registro mientras la aplicación web estaba parada. Para prevenir un fallo de memoria, se ha anulado el registro del conductor JDBC por la fuerza.
+17-Apr-2024 11:26:21.013 WARNING [main] org.apache.catalina.loader.WebappClassLoaderBase.clearReferencesThreads The web application [TIENDA-ONLINE-HS] appears to have started a thread named [mysql-cj-abandoned-connection-cleanup] but has failed to stop it. This is very likely to create a memory leak. Stack trace of thread:
+ java.base@18.0.2/java.lang.Object.wait(Native Method)
+ java.base@18.0.2/java.lang.ref.ReferenceQueue.remove(ReferenceQueue.java:155)
+ com.mysql.cj.jdbc.AbandonedConnectionCleanupThread.run(AbandonedConnectionCleanupThread.java:93)
+ java.base@18.0.2/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+ java.base@18.0.2/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+ java.base@18.0.2/java.lang.Thread.run(Thread.java:833)
+17-Apr-2024 11:26:21.027 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+17-Apr-2024 11:26:21.037 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
